@@ -7,7 +7,7 @@ Any ESP32-supported programming IDE can be used to program the controller.
 ESP32-WROVER-B Module
 Built-in Button on the front panel
 Digital Inputs
-Analog Inputs
+Analog Inputs with 0-10v
 DIN-Rail mount
 
 
