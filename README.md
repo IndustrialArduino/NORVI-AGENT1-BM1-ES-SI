@@ -10,4 +10,6 @@ Digital Inputs
 Analog Inputs with 0-10v
 DIN-Rail mount
 
+Datasheet:   https://drive.google.com/open?id=1bbc24qCbyghyF-c01GLs0hv_jz-6lxEz&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1ejlPrGrNDMN1hgE9EsdcJWDpNTnxZJXO&usp=drive_fs
 
